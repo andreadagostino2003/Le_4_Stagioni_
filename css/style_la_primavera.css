@@ -1,0 +1,59 @@
+a:link{color: rgb(5, 137, 220);
+    font-style: italic;}
+a:hover{color:rgb(255, 0, 0);
+     text-decoration: underline;
+     font-style: italic;}
+     .d-flex {
+         display: flex!important;
+         flex-direction: row-reverse;
+         align-content: stretch;}
+         body {
+            margin: 12px;}
+     
+a:visited{color: rgba(102, 106, 109, 0.635);
+     text-decoration: line-through;
+     font-style: italic;}
+     header{left: -12px;
+        background-color: rgb(150 125 86 / 97%);
+        color: rgb(73 14 14);
+        text-align: center;
+        font-family: 'Ms Madi', serif, cursive;
+        bottom: 12px;
+        position: relative;
+        margin-right: -26px;}
+    h1{ position: relative;
+        font-size: calc(60px + 1vw);
+        top: -4px;}
+        footer{font-family: "Nunito Sans";
+            font-size:calc(1vw + 1 px);
+             text-align: center;}
+ 
+             .img-fluid {
+               
+                color: #07ba00;
+                height: calc(19vw + 100px);
+                -moz-border-radius: 999em;
+                -webkit-border-radius: 999em;
+                -o-border-radius: 999em;
+                border: 17px;
+                border-style: double;}
+                p{text-align: center;
+                  font-family:"Nunito Sans";
+                  font-size: calc(1vw + 1em)}
+                  p1{font-family:"Nunito Sans";
+                    font-size: calc(1vw + 1em);}
+                .onda{width: calc(14px + 3vw);}
+                
+                .btn-primary {--bs-btn-bg: #9f6a4a80;
+                    --bs-btn-border-color: #350303;}
+                    .btn-primary1{--bs-btn-bg: #9f6a4a80;
+                        --bs-btn-border-color: #350303;}
+                .btn:hover {background-color: #d93e3ed4;
+                    border-color: var(--bs-btn-hover-border-color);}
+                    .btn-group-vertical {
+                        padding: 1vw;
+                        flex-direction: column;
+                        align-items: flex-start;
+                        justify-content: center;
+                    }
+                    

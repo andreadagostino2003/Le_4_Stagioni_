@@ -1,0 +1,29 @@
+@media screen and (max-width:1800px) {
+
+a:link{color:rgb(255, 0, 0);
+    text-decoration: underline;
+    font-style: italic;}
+a:visited{color: rgba(102, 106, 109, 0.635);
+    font-style: italic;}
+  body{margin: 0px;  }
+    header{background-color: rgb(150 125 86 / 97%);
+          color: rgb(73 14 14);
+         padding: 0px;
+         max-height: 100px;}
+       h1{font-family: 'Ms Madi', serif, cursive;
+          text-align: center;
+          font-size:70px;
+          margin-top: 0;
+          margin-bottom: 0.5rem;
+          font-weight: 500;
+          line-height: 1.2;
+          color: var(--bs-heading-color)}
+          section{font-family: "Nunito Sans";
+            margin-right: 51px;}
+            p{position: relative;
+                font-size: 30px;
+                top: 10px;
+                left:12px; } 
+               #diagramma{width: 390px;
+                height: 465px;}
+               }
