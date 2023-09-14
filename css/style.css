@@ -13,17 +13,16 @@ a:hover{color:rgb(255, 0, 0);
 a:visited{color: rgba(102, 106, 109, 0.635);
         text-decoration: line-through;
         font-style: italic;}
-header{margin-right: -94px;
+header{margin-right: -6vw;
     background-color: rgb(150 125 86 / 97%);
     color: rgb(73 14 14);
     text-align: center;
     font-family: 'Ms Madi', serif, cursive;
-    bottom: 0px;
+    bottom: 0vw;
     position: relative;
-    margin-top: -94px;
-    margin-left: -94px;}
-    body {
-        margin: 94px;}
+    margin-top: -5.4vw;
+    margin-left: -6vw;}
+    body {margin: 5.4vw;}
 h1{ position: relative;
     font-size: calc(60px + 1vw);
     top: -4px;}
